@@ -11,7 +11,11 @@ Ensured that the default .jpg that ChatGPT generated in HTML was replaced with (
 Updated the HTML to include a theme name, description, and adjusted section content to match the "Vast Voyage" theme.
 
 **Header Color Change**:
-After uplading an image with different color pallete; I adjusted the header section in the CSS to change the background color to a fuchsia purple (#d212dc).
+After uplading an image with different color pallete; I adjusted the header section in the CSS to change the background color to a blue color value: #0e68c1.
 
-**Body Text Change**:
+**Body Background Change**
+background-color: #152d42;
+
+**Body Text Change**
 color: white; /* Set all text color to white */
+
