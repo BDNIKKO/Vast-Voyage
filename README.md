@@ -13,5 +13,5 @@ Updated the HTML to include a theme name, description, and adjusted section cont
 **Header Color Change**:
 After uplading an image with different color pallete; I adjusted the header section in the CSS to change the background color to a fuchsia purple (#d212dc).
 
-**Body Text Change**
+**Body Text Change**:
 color: white; /* Set all text color to white */
