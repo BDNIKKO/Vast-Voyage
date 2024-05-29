@@ -1,5 +1,5 @@
 # Vast-Voyage
-Online Travel Agency
+_Online Travel Agency_
 
 **Initial HTML and CSS**:
 Added initial HTML structure with placeholders for content sections and navigation links.
